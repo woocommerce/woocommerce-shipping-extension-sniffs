@@ -1,2 +1,2 @@
-# woocommerce-shipping-extension-sniffs
+# WooCommerce Shipping Extension Sniffs
 WooCommerce Shipping Extension Sniffs
